@@ -1,0 +1,7 @@
+nltk
+numpy
+scikit-learn
+python-crfsuite
+matplotlib
+gradio      # app.py only
+pytest      # tests only

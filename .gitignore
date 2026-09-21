@@ -1,0 +1,7 @@
+models/
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+*.crfsuite
+stack_features_brown.json
+.DS_Store
